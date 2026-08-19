@@ -129,8 +129,9 @@ When you launch the app, you'll see the main menu:
 ---
 # Author
 **Bhavika Thadani**
-   📍**Ahmedabad**
-## 🤝 Contributing
+<div align="center">
+📍**Ahmedabad**
+## 🤝 Contribution
 
 Contributions are welcome! To contribute:
 
