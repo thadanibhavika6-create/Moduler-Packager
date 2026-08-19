@@ -127,6 +127,7 @@ When you launch the app, you'll see the main menu:
 <img width="1024" height="1536" alt="ChatGPT Image Aug 19, 2026, 08_08_15 AM" src="https://github.com/user-attachments/assets/6d623b6b-9dda-4b71-be2f-bbe875c806ae" />
 
 ---
+# ▶️ video link
 [Watch_Video_Here](https://drive.google.com/file/d/1UWiHvMatwDF7VuwRb8tgQ0IxQP0ggIBj/view?usp=drive_link)
 
 ---
