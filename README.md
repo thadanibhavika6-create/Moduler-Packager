@@ -37,6 +37,11 @@ It's built entirely on Python's **built-in modules** (`datetime`, `time`, `math`
 
 ---
 
+# project overview
+<img width="1536" height="1024" alt="visulize" src="https://github.com/user-attachments/assets/87ff429a-35fd-4f4a-8f6f-c2f25c4e1962" />
+
+---
+
 ## ✨ Features
 
 | Category | What You Can Do |
@@ -118,6 +123,10 @@ When you launch the app, you'll see the main menu:
 
 ---
 
+# 🖼️ sample output
+<img width="1024" height="1536" alt="ChatGPT Image Aug 19, 2026, 08_08_15 AM" src="https://github.com/user-attachments/assets/6d623b6b-9dda-4b71-be2f-bbe875c806ae" />
+
+---
 ## 🤝 Contributing
 
 Contributions are welcome! To contribute:
@@ -128,12 +137,6 @@ Contributions are welcome! To contribute:
 4. Push to your branch and open a Pull Request
 
 Ideas like new math operations, additional random generators, better error handling, or UI/UX polish are all appreciated.
-
----
-
-## 📄 License
-
-This project is open-source and free to use, modify, and distribute under the **MIT License**.
 
 ---
 
