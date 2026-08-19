@@ -130,6 +130,8 @@ When you launch the app, you'll see the main menu:
 # Author
 **Bhavika Thadani**
 📍**Ahmedabad**
+
+---
 ## 🤝 Contribution
 
 Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
