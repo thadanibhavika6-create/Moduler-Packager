@@ -129,16 +129,10 @@ When you launch the app, you'll see the main menu:
 ---
 # Author
 **Bhavika Thadani**
-<div align="center">
 📍**Ahmedabad**
 ## 🤝 Contribution
 
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -m "Add: your feature"`)
-4. Push to your branch and open a Pull Request
+Contributions, issues, and feature requests are welcome! Feel free to fork this project and submit a pull request.
 
 Ideas like new math operations, additional random generators, better error handling, or UI/UX polish are all appreciated.
 
